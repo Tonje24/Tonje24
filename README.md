@@ -1,4 +1,4 @@
-# Hi, I'm Tonje 👋
+# Hi, I'm Tonje 👋 - I am currently exploring new projects
 
 I'm a student learning to code with mainly focus on Python and web development right now.
 
