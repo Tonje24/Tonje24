@@ -23,3 +23,9 @@ I'm a student learning to code with mainly focus on Python and web development r
 ## Contact
 - LinkedIn: Tonje Kleppe Laasby
 - Email: Tonje@laasby.com
+
+
+
+## About me
+I'm a 22 year old girl from Norway, I play college soccer for North Park university.
+I believe in learning by building, most of my projects end up as actual working apps rather than just exercises.
