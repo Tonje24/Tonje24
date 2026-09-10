@@ -17,3 +17,9 @@ I'm a student learning to code with mainly focus on Python and web development r
 - Building a weather app with Flask and PostgreSQL using the Open-Meteo API (CSIS 1230 project)
 - Deepening my knowledge of data structures in Python (dynamic arrays, ADTs, Big-O analysis)
 - Experimented with an AI-powered prototype for skincare analysis using image recognition
+
+
+
+## Contact
+- LinkedIn: Tonje Kleppe Laasby
+- Email: Tonje@laasby.com
